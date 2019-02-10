@@ -16,7 +16,7 @@
       "^.+\\.tsx?$": "ts-jest"
     },
     "transformIgnorePatterns": [
-      "node_modules/(?!(jest-)?react-native|react-navigation|react-navigation-redux-helpers|expo|@react-navigation|@expo)"
+      "node_modules/(?!(jest-)?react-native|react-navigation|react-navigation-redux-helpers)"
     ],
     "testMatch": [
       "**/__tests__/**/*.ts?(x)",
